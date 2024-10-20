@@ -1,3 +1,5 @@
+// Exceeding Requirements
+// Added another class, a getter, and a menu option to show how many times activities were performed.
 using System;
 
 class Program
